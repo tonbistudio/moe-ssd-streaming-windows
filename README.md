@@ -1,6 +1,6 @@
-# Running a 32 GB AI Model on 28 GB of Memory
+# SSD Expert Streaming for Mixture of Experts Models on Windows
 
-**SSD expert streaming for Mixture of Experts models on Windows gaming PCs.**
+**Running a 32 GB AI model on 28 GB of memory — on a budget gaming PC.**
 
 Inspired by [Daniel Isaac's (@danpacary)](https://twitter.com/danpacary) work on streaming MoE expert weights from SSD on Apple Silicon, this project recreates and validates the technique on a budget Windows PC — proving that consumer NVMe SSDs can extend your system's effective memory for large language model inference.
 
